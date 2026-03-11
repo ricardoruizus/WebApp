@@ -39,7 +39,3 @@ Generación dinámica de los siguientes diagramas:
 * **JavaScript (ES6+)**: Implementación de la lógica matemática y estadística.
 * **GitHub Pages**: Plataforma de despliegue y publicación.
 
----
-
-## 📋 Criterios de Evaluación Cubiertos
-Este
