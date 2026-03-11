@@ -1,16 +1,45 @@
-# React + Vite
+# Web App de Probabilidad y Estadística 📊
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicación web interactiva diseñada para el procesamiento de datos estadísticos y visualización de conceptos fundamentales de la materia. El proyecto permite automatizar cálculos complejos y generar representaciones gráficas precisas a partir de muestras de datos.
 
-Currently, two official plugins are available:
+## 🚀 Acceso al Proyecto
+La aplicación está desplegada en GitHub Pages y se puede acceder a través del siguiente enlace:
+**[PEGA_AQUÍ_TU_URL_DE_GITHUB_PAGES]**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🛠️ Funcionalidades del Sistema
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Basado en los requerimientos de la asignatura, la aplicación incluye:
 
-## Expanding the ESLint configuration
+### 1. Gestión de Muestras
+* **Ingreso Manual**: Captura de datos numéricos con un mínimo de 20 valores.
+* **Generación Aleatoria**: Función para crear sets de datos de prueba automáticamente (mínimo 20 datos).
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 2. Procesamiento Estadístico
+* **Medidas de Tendencia Central**: Cálculo exacto de Media, Mediana y Moda.
+* **Medidas de Dispersión**: Identificación de valores Mínimo, Máximo y Rango.
+* **Tabla de Frecuencias**: Estructura completa que incluye frecuencia absoluta ($f_i$), relativa ($f_r$), absoluta acumulada ($F_i$) y relativa acumulada ($F_r$).
+
+### 3. Visualización Gráfica
+Generación dinámica de los siguientes diagramas:
+* **Histograma y Polígono de Frecuencias**.
+* **Ojiva** (Curva de frecuencias acumuladas).
+* **Diagrama de Pareto** para análisis de distribución.
+
+### 4. Probabilidad y Conteo
+* **Operaciones con Conjuntos**: Unión, intersección y diferencia.
+* **Probabilidad**: Implementación de la regla multiplicativa y representación de diagramas de árbol.
+* **Combinatoria**: Funciones para el cálculo de Permutaciones y Combinaciones.
+
+---
+
+## 💻 Tecnologías Utilizadas
+* **React.js**: Biblioteca principal para la construcción de la interfaz.
+* **JavaScript (ES6+)**: Implementación de la lógica matemática y estadística.
+* **GitHub Pages**: Plataforma de despliegue y publicación.
+
+---
+
+## 📋 Criterios de Evaluación Cubiertos
+Este
