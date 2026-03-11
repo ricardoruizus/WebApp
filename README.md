@@ -4,7 +4,7 @@ Aplicación web interactiva diseñada para el procesamiento de datos estadístic
 
 ## 🚀 Acceso al Proyecto
 La aplicación está desplegada en GitHub Pages y se puede acceder a través del siguiente enlace:
-**[PEGA_AQUÍ_TU_URL_DE_GITHUB_PAGES]**
+**https://ricardoruizus.github.io/WebApp/**
 
 ---
 
